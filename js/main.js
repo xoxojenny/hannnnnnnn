@@ -32,7 +32,7 @@ function firstQuestion() {
     Swal.fire({
         title: CONFIG.introTitle,
         text: CONFIG.introDesc,
-        imageUrl: 'img/logi.gif',
+        imageUrl: 'img/meoami.gif',
         imageWidth: 300,
         imageHeight: 300,
         background: '#fff url("img/iput-bg.jpg")',
@@ -117,7 +117,7 @@ $('#yes').click(function() {
         background: '#fff url("img/iput-bg.jpg")',
         backdrop: `
               rgba(0,0,123,0.4)
-              url("img/giphy2.gif")
+              url("img/ami.gif")
               left top
               no-repeat
             `,
